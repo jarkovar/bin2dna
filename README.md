@@ -2,7 +2,6 @@
  A file's binary code is translated to 'DNA' symbols (A,T,C,G) and written to output file (.fasta)
 
 Usage: 
-<br />
 ./bin2dna.sh <filename>
 
 Coding used to translate binary to 'DNA':
