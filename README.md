@@ -6,10 +6,10 @@ Usage:
 
 Coding used to translate binary to 'DNA':
 
-        00=A <br />
-            11=T <br />
-                01=C <br />
-                    10=G <br />
+        00=A
+            11=T
+                01=C
+                    10=G
 
 Example output:
 AGATAGACAGTTCGAGCGGCCGTGAGTTCGAGCGACCTATCGGAAAGGAAGGAAGG(
